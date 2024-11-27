@@ -1,0 +1,24 @@
+# Blender MTL File: 'SillaCocina.blend'
+# Material Count: 2
+
+newmtl Material.005
+Ns 192.373120
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.222603 0.222603 0.222603
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s -3.599997 -3.699997 -1.999992 SillaCocina\\SillaCocina\\green_metal_rust_rough_2k.jpg
+
+newmtl Material.006
+Ns 121.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o -32.399994 4.099999 0.000000 -s 5.099999 1.100000 1.300000 SillaCocina\\SillaCocina\\blue_painted_planks_diff_2k.jpg
