@@ -1,0 +1,57 @@
+# Blender MTL File: 'MesaCocina.blend'
+# Material Count: 5
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\paumq\\Downloads\\TexturesCom_Plastic_PolypropyleneRough_1K_albedo.tif
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\paumq\\Downloads\\TexturesCom_Plastic_PolypropyleneRough_1K_albedo.tif
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 7.300000 7.300000 7.299999 C:\\Users\\paumq\\Downloads\\TexturesCom_RoughCeramic_Old_1K_albedo.tif
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 7.300000 7.300000 7.300000 C:\\Users\\paumq\\Downloads\\TexturesCom_RoughCeramic_Old_1K_albedo.tif
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -o 0.000000 0.000000 0.000000 -s 1.000000 1.000000 0.000000 C:\\Users\\paumq\\Downloads\\TexturesCom_Marble_SlabWhite_1K_albedo.tif
