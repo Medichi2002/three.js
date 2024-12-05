@@ -1,0 +1,51 @@
+# Blender MTL File: 'PRIMERPROYECTO2.blend'
+# Material Count: 4
+
+newmtl FBHead_preview_mat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd .
+
+newmtl Material.027
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.028
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Normal.png
+map_Kd C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_BaseColor.png
+map_Ns C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Roughness.png
+refl C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Metallic.png
+
+newmtl Material.029
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Normal.png
+map_Kd C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_BaseColor.png
+map_Ns C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Roughness.png
+refl C:\\Users\\paumq\\Downloads\\41-pistol-beretta\\Pistol Beretta\\Berreta M9_Material_Metallic.png
